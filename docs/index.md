@@ -2,9 +2,9 @@
 #####**Gerard Ambe**
 
 Tullhusgatan 5B, 65210 Karlstad, Sweden  
-Telephone: 072-010-7276 | E-mail: gerardambe@yahoo.com | [github.com/Gerardbulky](https://github.com/Gerardbulky)
+Telephone: 072-010-7276 | E-mail: gerardambe@yahoo.com | [github.com/Gerardbulky](https://github.com/Gerardbulky)<br>
 
-<br>
+
 #####Dear Hiring Manager:
 My name is Gerard, and I am living and working in Sweden. I am a driven Software Developer with proficiency in DevOps and modern Python for backend development.
 
